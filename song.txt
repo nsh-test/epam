@@ -1,0 +1,4 @@
+hello
+pretty
+what about
+lesson for git
